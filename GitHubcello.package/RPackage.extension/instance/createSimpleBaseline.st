@@ -2,7 +2,7 @@
 createSimpleBaseline
 
 	| theName package class |
-	theName := 'BaselinieOf', self name.
+	theName := 'BaselineOf', self name.
 	package := RPackageOrganizer default registerPackageNamed: theName.
 	
 	class := BaselineOf subclass: theName.
