@@ -1,5 +1,5 @@
 {
-	"category" : "BaselinieOfGitHubcello",
+	"category" : "BaselineOfGitHubcello",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "BaselinieOfGitHubcello",
+	"name" : "BaselineOfGitHubcello",
 	"pools" : [
 		 ],
 	"super" : "BaselineOf",
