@@ -15,3 +15,14 @@ Creating Baseline Fast
 ----------------------
 
 If you just need a baseline for one of your packages select **Create Baseline** from the Nautilus' package context menu.
+
+---
+
+Installing
+----------
+Available from catalog browser or
+
+    Metacello new
+        repository: 'github://Uko/GitHubcello';
+        baseline: 'GitHubcello';
+        load
