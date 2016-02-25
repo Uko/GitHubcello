@@ -5,7 +5,10 @@ baseline: spec
 	spec for: #common do: [
 		spec
 			package: 'GitHubcello'
-			with: [ spec requires: #('STON') ].
+			with: [ spec requires: #('STON') ];
+			
+			package: 'GitHubcello-Test'
+			with: [ spec requires: #('GitHubcello') ].
 		
 		spec project: 'STON' with: [
   				spec
