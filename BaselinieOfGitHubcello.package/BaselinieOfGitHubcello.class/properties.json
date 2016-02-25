@@ -1,0 +1,14 @@
+{
+	"category" : "BaselinieOfGitHubcello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselinieOfGitHubcello",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
