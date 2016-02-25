@@ -1,4 +1,4 @@
-GitHubcello
+GitHubcello [![Build Status](https://travis-ci.org/Uko/GitHubcello.svg?branch=master)](https://travis-ci.org/Uko/GitHubcello)
 ===========
 This project helps you to work with GitHub and Metacello.
 
