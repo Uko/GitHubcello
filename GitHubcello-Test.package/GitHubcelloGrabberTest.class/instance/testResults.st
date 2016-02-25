@@ -1,9 +1,11 @@
 tests
-testProcess
+testResults
 
 	| result |
 	
-	result := GitHubcelloGrabber process: 'https://github.com/Uko/GitHubcello'.
+	result := [ (GitHubcelloGrabber fromUrl: 'https://github.com/Uko/GitHubcello') results ]
+		on: GCRequestLimitError
+		do: [ ^ self ].
 	
 	self assert: result isCollection.
 	self assert: result size equals: 1.
