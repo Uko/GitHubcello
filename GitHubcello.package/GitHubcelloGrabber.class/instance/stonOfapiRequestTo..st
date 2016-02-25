@@ -1,4 +1,4 @@
 requests
 stonOfapiRequestTo: string
 
-	^ STON fromString: (self apiContentsRequestTo: string)
+	^ self stonFromRsponse: (self apiRequestTo: string)

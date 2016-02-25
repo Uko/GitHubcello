@@ -6,7 +6,7 @@ spotterGhBaselinesFor: aStep
 		title: 'GitHub Baselines';
 		itemName: #name;
 		filter: GTNullFilter item: [ :filter :context |
-			(GitHubcelloGrabber fromUrl: context textTrimmed) loadScripts do: [ :s |
+			(GitHubcelloGrabber fromUrl: context textTrimmed) results do: [ :s |
 				filter value: s ] ];
 		itemIcon: [ Smalltalk ui icons iconNamed: #catalog ];
 		actLogic: [ :item | 

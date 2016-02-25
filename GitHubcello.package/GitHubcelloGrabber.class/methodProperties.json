@@ -1,19 +1,20 @@
 {
 	"class" : {
 		"fromUrl:" : "YuriyTymchuk 2/24/2016 23:44",
-		"process:" : "YuriyTymchuk 2/25/2016 00:00",
+		"process:" : "YuriyTymchuk 2/25/2016 15:57",
 		"user:repo:" : "YuriyTymchuk 2/24/2016 17:21" },
 	"instance" : {
-		"apiContentsRequestTo:" : "YuriyTymchuk 2/24/2016 23:51",
+		"apiRequestTo:" : "YuriyTymchuk 2/25/2016 15:52",
 		"basePath" : "YuriyTymchuk 2/24/2016 23:53",
 		"baselineFromClassPath:do:" : "YuriyTymchuk 2/25/2016 00:08",
-		"baselineFromClassPath:do:onFail:" : "YuriyTymchuk 2/25/2016 10:19",
+		"baselineFromClassPath:do:onFail:" : "YuriyTymchuk 2/25/2016 15:53",
 		"classPathsFromPackage:" : "YuriyTymchuk 2/25/2016 00:07",
 		"client" : "YuriyTymchuk 2/24/2016 23:51",
 		"initializeUser:repo:" : "YuriyTymchuk 2/24/2016 16:43",
 		"isFTRepo" : "YuriyTymchuk 2/24/2016 17:37",
-		"loadScripts" : "YuriyTymchuk 2/25/2016 00:08",
 		"packagePaths" : "YuriyTymchuk 2/25/2016 00:05",
-		"rootContents" : "YuriyTymchuk 2/24/2016 17:32",
+		"results" : "YuriyTymchuk 2/25/2016 15:57",
+		"rootContents" : "YuriyTymchuk 2/25/2016 14:55",
 		"spotterItemsFor:" : "YuriyTymchuk 2/24/2016 22:36",
-		"stonOfapiRequestTo:" : "YuriyTymchuk 2/24/2016 23:59" } }
+		"stonFromRsponse:" : "YuriyTymchuk 2/25/2016 15:52",
+		"stonOfapiRequestTo:" : "YuriyTymchuk 2/25/2016 15:53" } }

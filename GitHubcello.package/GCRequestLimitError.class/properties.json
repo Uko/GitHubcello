@@ -1,0 +1,14 @@
+{
+	"category" : "GitHubcello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 2/25/2016 15:33",
+	"instvars" : [
+		"endTime" ],
+	"name" : "GCRequestLimitError",
+	"pools" : [
+		 ],
+	"super" : "GCRequestFailureError",
+	"type" : "normal" }

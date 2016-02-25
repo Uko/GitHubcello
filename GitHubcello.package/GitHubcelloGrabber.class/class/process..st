@@ -1,6 +1,6 @@
 instance creation
 process: uri
 
-	^ [ (self fromUrl: uri) loadScripts ]
+	^ [ (self fromUrl: uri) results ]
 		on: Error
 		do: #()

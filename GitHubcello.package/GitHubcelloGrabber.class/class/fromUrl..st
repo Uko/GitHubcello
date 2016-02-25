@@ -1,4 +1,4 @@
-actions
+instance creation
 fromUrl: string
 
 	| regex |

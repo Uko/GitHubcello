@@ -1,5 +1,5 @@
 actions
-loadScripts
+results
 
 	| scripts |
 	scripts := Bag new.

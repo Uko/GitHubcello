@@ -7,8 +7,8 @@ baselineFromClassPath: classUrl do: successBlock onFail: failBlock
 			#('properties.json' 'properties.ston') includes: (item at: 'name') ] ]
 		ifFound: [ :item |
 			| propDict |
-			propDict := (STON fromString:
-				(ZnEasy get: (item at: 'download_url')) contents).
+			propDict := (self stonFromRsponse: 
+				(ZnEasy get: (item at: 'download_url'))).
 			(propDict at: 'super') = 'BaselineOf'
 				ifTrue: [ successBlock cull: ((propDict at: 'name') allButFirst: 10) ]
 				ifFalse: [ failBlock ] ]
