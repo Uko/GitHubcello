@@ -5,7 +5,7 @@ baselineFromClassPath: classUrl do: successBlock onFail: failBlock
 		detect: [ :item |
 			(item at: 'type') = 'file' and: [
 			#('properties.json' 'properties.ston') includes: (item at: 'name') ] ]
-		ifOne: [ :item |
+		ifFound: [ :item |
 			| propDict |
 			propDict := (STON fromString:
 				(ZnEasy get: (item at: 'download_url')) contents).
