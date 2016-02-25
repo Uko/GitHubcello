@@ -1,0 +1,1 @@
+This error happens when a grabber tries to create itself with a wrong URI

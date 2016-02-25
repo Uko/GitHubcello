@@ -1,0 +1,18 @@
+{
+	"category" : "GitHubcello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 2/24/2016 23:35",
+	"instvars" : [
+		"user",
+		"repo",
+		"rootContents",
+		"client",
+		"basePath" ],
+	"name" : "GitHubcelloGrabber",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

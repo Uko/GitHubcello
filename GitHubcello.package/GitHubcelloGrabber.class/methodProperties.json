@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"fromUrl:" : "YuriyTymchuk 2/24/2016 23:44",
+		"process:" : "YuriyTymchuk 2/25/2016 00:00",
+		"user:repo:" : "YuriyTymchuk 2/24/2016 17:21" },
+	"instance" : {
+		"apiContentsRequestTo:" : "YuriyTymchuk 2/24/2016 23:51",
+		"basePath" : "YuriyTymchuk 2/24/2016 23:53",
+		"baselineFromClassPath:do:" : "YuriyTymchuk 2/25/2016 00:08",
+		"baselineFromClassPath:do:onFail:" : "YuriyTymchuk 2/25/2016 00:09",
+		"classPathsFromPackage:" : "YuriyTymchuk 2/25/2016 00:07",
+		"client" : "YuriyTymchuk 2/24/2016 23:51",
+		"initializeUser:repo:" : "YuriyTymchuk 2/24/2016 16:43",
+		"isFTRepo" : "YuriyTymchuk 2/24/2016 17:37",
+		"loadScripts" : "YuriyTymchuk 2/25/2016 00:08",
+		"packagePaths" : "YuriyTymchuk 2/25/2016 00:05",
+		"rootContents" : "YuriyTymchuk 2/24/2016 17:32",
+		"spotterItemsFor:" : "YuriyTymchuk 2/24/2016 22:36",
+		"stonOfapiRequestTo:" : "YuriyTymchuk 2/24/2016 23:59" } }

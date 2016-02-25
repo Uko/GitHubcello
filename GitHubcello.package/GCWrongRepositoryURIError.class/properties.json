@@ -1,0 +1,14 @@
+{
+	"category" : "GitHubcello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 2/24/2016 23:34",
+	"instvars" : [
+		 ],
+	"name" : "GCWrongRepositoryURIError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
