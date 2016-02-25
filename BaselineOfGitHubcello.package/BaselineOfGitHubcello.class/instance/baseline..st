@@ -12,7 +12,7 @@ baseline: spec
 		
 		spec project: 'STON' with: [
   				spec
-    					className: 'ConfigurationOfSTON';
+    					className: 'ConfigurationOfSton';
     					version: #stable;
     					repository: 'http://smalltalkhub.com/mc/SvenVanCaekenberghe/STON/main' ].
 		
