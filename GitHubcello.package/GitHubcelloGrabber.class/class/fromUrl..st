@@ -2,7 +2,7 @@ instance creation
 fromUrl: string
 
 	| regex |
-	regex := 'https?\://github\.com/(\w+)/(\w+)/?' asRegex.
+	regex := 'https?\://github\.com/([-\w]+)/([-\w_.]+)/?' asRegex.
 	
 	^ (regex matches: string)
 		ifFalse: [ GCWrongRepositoryURIError signal: 'Invalid URI: ', string ]
